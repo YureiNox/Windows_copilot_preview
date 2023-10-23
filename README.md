@@ -10,7 +10,7 @@ windows copilot on windows 11 build 22621.2428 or later
 2- place your file in your C: drive, drag the two file in the "copilotraccourcis" in the main file to make a tree and delete the folder copilotraccourcis you will not need this folder anymore
 
 
-## the tree:
+the tree:
 C:\Raccourcis\copilot.url ---- C:\Raccourcis\copilot1.url ---- C:\Raccourcis\icone\copilot.ico
 
 
