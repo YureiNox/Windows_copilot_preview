@@ -10,14 +10,14 @@ windows copilot on windows 11 build 22621.2428 or later
 2- place your file and drag the two file in the "copilot raccourcis" in the main file to make a tree like that
 name/ = folder
 
-C:/
-│
-└───Copilot.lnk
-└───Copilot1.url
-│
-└───icone/
-        │
-        Copilot.ico
+## C:/
+## │
+## └───Copilot.lnk
+## └───Copilot1.url
+## │
+## └───icone/
+##         │
+##        Copilot.ico
 
 then if the icone would not appear change it in right-click---> properties---> change-icones---> ...---> navigate-to-c:\Raccourcis\icone---> select-copilot.ico
 the presse ok and apply and ok
