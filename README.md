@@ -11,7 +11,7 @@ windows copilot on windows 11 build 22621.2428 or later
 
 
 ## the tree:
-""" C:\Raccourcis\copilot.url ---- C:\Raccourcis\copilot1.url ---- C:\Raccourcis\icone\copilot.ico """
+C:\Raccourcis\copilot.url ---- C:\Raccourcis\copilot1.url ---- C:\Raccourcis\icone\copilot.ico
 
 
 4- then if the icone would not appear change it in right-click---> properties---> change-icones---> ...---> navigate-to-c:\Raccourcis\icone---> select-copilot.ico
