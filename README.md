@@ -26,7 +26,7 @@ the presse ok and apply and ok
 
 5- and finally drag the Copilot.url or Copilot if you don't have file extension activate on the taskbar...
 
-6- if you have a message that say would you really open thi file.... or something like this you can go to both file so th copilot1 and the copilot: right click ---> properties ---> general tab ---> and coche the unlock or something that say unlock or anything that look like that then ----> apply ----> ok
+6- if you have a message that say would you really open this file.... or something like this you can go to both file so th copilot1 and the copilot: right click ---> properties ---> general tab ---> and coche the unlock or something that say unlock or anything that look like that then ----> apply ----> ok
 
 ;)
 
