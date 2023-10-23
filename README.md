@@ -11,7 +11,8 @@ windows copilot on windows 11 build 22621.2428 or later
 
 
 
-```C:\RACCOURCIS
+```
+C:\RACCOURCIS
 └───Copilot.lnk
 └───Copilot1.url
 │
