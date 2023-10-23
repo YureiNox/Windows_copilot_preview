@@ -7,9 +7,11 @@ windows copilot on windows 11 build 22621.2428 or later
 # installation
 1- download all file and extract.
 
-2- place your file and drag the two file in the "copilot raccourcis" in the main file to make a tree
+2- place your file in your C: drive, drag the two file in the "copilotraccourcis" in the main file to make a tree and delete the folder copilotraccourcis you will not need this folder anymore
 
-C:\Raccourcis\copilot.url ---- C:\Raccourcis\copilot1.url ---- C:\Raccourcis\icone\copilot.ico
+
+## the tree:
+""" C:\Raccourcis\copilot.url ---- C:\Raccourcis\copilot1.url ---- C:\Raccourcis\icone\copilot.ico """
 
 
 4- then if the icone would not appear change it in right-click---> properties---> change-icones---> ...---> navigate-to-c:\Raccourcis\icone---> select-copilot.ico
