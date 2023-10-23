@@ -12,10 +12,10 @@ windows copilot on windows 11 build 22621.2428 or later
 C:\Raccourcis\copilot.url ---- C:\Raccourcis\copilot1.url ---- C:\Raccourcis\icone\copilot.ico
 
 
-then if the icone would not appear change it in right-click---> properties---> change-icones---> ...---> navigate-to-c:\Raccourcis\icone---> select-copilot.ico
+4- then if the icone would not appear change it in right-click---> properties---> change-icones---> ...---> navigate-to-c:\Raccourcis\icone---> select-copilot.ico
 the presse ok and apply and ok
 
-and finally drag the Copilot.url or Copilot if you don't have file extension activate on the taskbar...
+5- and finally drag the Copilot.url or Copilot if you don't have file extension activate on the taskbar...
 
 ;)
 
